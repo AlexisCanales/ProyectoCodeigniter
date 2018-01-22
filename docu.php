@@ -7,7 +7,7 @@
 	  private $bd;
 	  private $id_con; 
 	  private $conexion;
-	  //private $id_bd; hola
+	  //private $id_bd;
 	  
 	
      function conectar(){
